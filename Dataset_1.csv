@@ -1,0 +1,197 @@
+﻿Hashtag,Year,Tweet_Count,Peak_Month,Sentiment,Location,Engagement,Event Trigger
+#IPL2024,2024,"14,00,000",April,Positive,Pan-India,15K,IPL Season Start
+#LokSabhaElections2024,2024,"13,00,000",May,Mixed,Pan-India,10K,Election Results
+#Kalki2898AD,2024,"8,00,000",June,Positive,Telangana/AP,12K,Movie Release
+#BanWaqfBoard,2024,"4,00,000",February,Negative,North India,5K,Waqf Controversy
+#TeamIndia,2024,"9,00,000",June,Positive,Pan-India,11K,T20 WC Win
+#Pushpa2,2024,"7,00,000",December,Positive,South India,13K,Movie Hype
+#ElonMusk,2024,"5,00,000",January,Mixed,Urban India,8K,Tesla India Rumors
+#RamMandir,2024,"6,00,000",January,Positive,North India,9K,Temple Inauguration
+#RohitSharma,2024,"4,50,000",June,Positive,Pan-India,7K,T20 WC Captaincy
+#Budget2024,2024,"5,50,000",July,Mixed,Urban India,6K,Budget Announcement
+#GameChanger,2024,"3,00,000",September,Positive,Telangana/AP,5K,Teaser Release
+#Devara,2024,"3,50,000",October,Positive,South India,6K,Movie Release
+#Indian2,2024,"2,50,000",July,Mixed,Tamil Nadu,4K,Movie Release
+#NEET2024,2024,"4,00,000",June,Negative,Pan-India,6K,Exam Controversy
+#ParisOlympics,2024,"5,00,000",August,Positive,Urban India,8K,India Medals
+#MakeInIndia,2024,"2,50,000",October,Positive,Pan-India,3K,Manufacturing Boost
+#Diwali,2024,"3,50,000",October,Positive,Pan-India,6K,Festival
+#Holi,2024,"2,00,000",March,Positive,Pan-India,4K,Festival
+#EidMubarak,2024,"2,20,000",March,Positive,Pan-India,5K,Eid Celebration
+#RakshaBandhan,2024,"1,80,000",August,Positive,Pan-India,4K,Festival
+#GaneshChaturthi,2024,"2,00,000",September,Positive,Maharashtra,5K,Festival
+#BiggBoss18,2024,"3,00,000",October,Mixed,Urban India,6K,Show Premiere
+#T20WorldCup,2024,"6,00,000",June,Positive,Pan-India,10K,India Victory
+#IndiaVsSA,2024,"4,00,000",November,Positive,Pan-India,8K,Test Series
+#ViratKohli,2024,"5,00,000",June,Positive,Pan-India,9K,T20 WC Performance
+#Modi,2024,"3,00,000",May,Mixed,Pan-India,6K,Election Campaign
+#NarendraModi,2024,"2,50,000",January,Mixed,Pan-India,5K,Ram Mandir Speech
+#Cryptocurrency,2024,"2,00,000",February,Mixed,Urban India,5K,Bitcoin Surge
+#BTS,2024,"2,50,000",July,Positive,Urban India,6K,Reunion Rumors
+#PetrolPrice,2024,"1,80,000",April,Negative,Urban India,4K,Fuel Price Hike
+#UPSC,2024,"2,00,000",June,Mixed,Pan-India,5K,Results Announcement
+#HarGharTiranga,2024,"1,50,000",August,Positive,Pan-India,4K,Independence Day
+#Ramadan,2024,"1,40,000",March,Positive,Pan-India,4K,Ramadan Start
+#WPL2024,2024,"2,00,000",March,Positive,Pan-India,5K,Women’s IPL
+#Love,2024,"1,30,000",February,Positive,Pan-India,3K,Valentine’s Day
+#CBSE,2024,"1,50,000",May,Mixed,Pan-India,4K,Board Results
+#Adani,2024,"2,00,000",January,Mixed,Urban India,5K,Stock Recovery
+#Leo,2024,"1,80,000",January,Positive,Tamil Nadu,4K,Continued Buzz
+#Jailer,2024,"1,50,000",February,Positive,Tamil Nadu,4K,OTT Release
+#Salaar,2024,"2,00,000",January,Positive,South India,5K,OTT Buzz
+#Earthquake,2024,"1,30,000",March,Negative,North India,3K,Local Quake Reports
+#MannKiBaat,2024,"1,50,000",June,Positive,North India,4K,PM Speech
+#WomenCricket,2024,"1,40,000",March,Positive,Pan-India,4K,WPL Success
+#IndiaVsNZ,2024,"2,00,000",October,Positive,Pan-India,6K,Test Series
+#GunturKaaram,2024,"2,50,000",January,Positive,Telangana/AP,7K,Movie Release
+#Paris2024,2024,"3,00,000",July,Positive,Urban India,8K,Olympics Start
+#BlackMoney,2024,"1,20,000",February,Negative,Urban India,3K,Corruption Debate
+#Oscars2024,2024,"2,00,000",March,Positive,Urban India,5K,Awards Season
+#TechIndia,2024,"1,50,000",May,Positive,Urban India,4K,Tech Events
+#Pathaan,2023,"15,00,000",January,Positive,North India,18K,Movie Release
+#WorldCup2023,2023,"13,00,000",November,Mixed,Pan-India,15K,WC Final Loss
+#Chandrayaan3,2023,"10,00,000",August,Positive,Urban India,20K,Moon Landing
+#G20Summit,2023,"8,00,000",September,Positive,Delhi,12K,G20 Event
+#Jawan,2023,"12,00,000",September,Positive,North India,16K,Movie Release
+#IPL2023,2023,"11,00,000",May,Positive,Pan-India,14K,CSK Victory
+#Adipurush,2023,"6,00,000",June,Mixed,South India,8K,Movie Release
+#WrestlersProtest,2023,"5,00,000",May,Negative,Delhi,7K,Wrestlers’ Agitation
+#Oscars2023,2023,"7,00,000",March,Positive,South India,10K,Naatu Naatu Win
+#ViratKohli,2023,"5,50,000",October,Positive,Pan-India,9K,WC Performance
+#RRR,2023,"6,00,000",March,Positive,Pan-India,12K,Oscar Win
+#Tiger3,2023,"4,50,000",November,Positive,North India,7K,Movie Release
+#Animal,2023,"5,00,000",December,Mixed,Urban India,8K,Movie Release
+#Dunki,2023,"4,00,000",December,Positive,North India,6K,Movie Release
+#Salaar,2023,"6,00,000",December,Positive,South India,9K,Movie Release
+#MannKiBaat,2023,"3,50,000",June,Positive,North India,5K,PM Speech
+#DigitalIndia,2023,"3,00,000",July,Positive,Urban India,4K,Policy Push
+#TeamIndia,2023,"7,00,000",November,Positive,Pan-India,10K,WC Campaign
+#IndiaVsAus,2023,"4,00,000",November,Mixed,Pan-India,8K,WC Final
+#Diwali,2023,"3,50,000",November,Positive,Pan-India,6K,Festival
+#Holi,2023,"2,00,000",March,Positive,Pan-India,4K,Festival
+#EidMubarak,2023,"2,20,000",April,Positive,Pan-India,5K,Eid Celebration
+#RakshaBandhan,2023,"1,80,000",August,Positive,Pan-India,4K,Festival
+#GaneshChaturthi,2023,"2,00,000",September,Positive,Maharashtra,5K,Festival
+#BiggBoss17,2023,"3,00,000",October,Mixed,Urban India,6K,Show Premiere
+#PetrolPrice,2023,"2,50,000",May,Negative,Urban India,4K,Fuel Price Hike
+#NEET2023,2023,"2,00,000",May,Negative,Pan-India,5K,Exam Controversy
+#UPSC,2023,"1,80,000",June,Mixed,Pan-India,4K,Results Announcement
+#Budget2023,2023,"2,00,000",February,Mixed,Urban India,5K,Budget Announcement
+#Modi,2023,"2,50,000",March,Mixed,Pan-India,6K,PM Rally
+#Cryptocurrency,2023,"2,00,000",April,Mixed,Urban India,5K,Crypto Recovery
+#BTS,2023,"2,50,000",June,Positive,Urban India,6K,Comeback Rumors
+#Pushpa2,2023,"3,00,000",August,Positive,South India,7K,First Look Release
+#Kantara,2023,"2,00,000",January,Positive,Karnataka,5K,Continued Buzz
+#NarendraModi,2023,"1,80,000",September,Mixed,Pan-India,4K,G20 Speech
+#WomenCricket,2023,"1,50,000",February,Positive,Pan-India,4K,WPL Start
+#ElonMusk,2023,"2,00,000",June,Mixed,Urban India,5K,Twitter Updates
+#Adani,2023,"2,50,000",February,Negative,Urban India,6K,Hindenburg Report
+#Ramadan,2023,"1,50,000",March,Positive,Pan-India,4K,Ramadan Start
+#WPL,2023,"1,80,000",March,Positive,Pan-India,5K,Women’s IPL
+#GunturKaaram,2023,"2,00,000",August,Positive,Telangana/AP,6K,Teaser Release
+#Leo,2023,"2,50,000",October,Positive,Tamil Nadu,7K,Movie Release
+#Jailer,2023,"3,00,000",August,Positive,Tamil Nadu,8K,Movie Release
+#AsiaCup,2023,"2,00,000",September,Positive,Pan-India,6K,India Win
+#Earthquake,2023,"1,50,000",February,Negative,North India,4K,Turkey Quake Reaction
+#HarGharTiranga,2023,"1,40,000",August,Positive,Pan-India,4K,Independence Day
+#Love,2023,"1,30,000",February,Positive,Pan-India,3K,Valentine’s Day
+#CBSE,2023,"1,20,000",March,Mixed,Pan-India,3K,Board Results
+#IndiaVsNZ,2023,"1,50,000",January,Positive,Pan-India,5K,ODI Series
+#FarmersProtest,2022,"9,00,000",February,Negative,Punjab,8K,Protest Anniversary
+#IPL2022,2022,"12,00,000",April,Positive,Pan-India,12K,IPL Season Start
+#TeamIndia,2022,"8,00,000",June,Positive,Urban India,10K,T20 Series Win
+#BoycottBollywood,2022,"6,00,000",September,Negative,North India,6K,Sushant Case Fallout
+#Pathaan,2022,"4,00,000",December,Positive,Urban India,9K,Trailer Release
+#Brahmastra,2022,"5,00,000",September,Positive,Metro Cities,7K,Movie Release
+#UkraineRussiaWar,2022,"3,00,000",March,Mixed,Urban India,5K,War Outbreak
+#HijabRow,2022,"3,50,000",February,Negative,Karnataka,4K,Hijab Ban Controversy
+#ViratKohli,2022,"4,50,000",November,Positive,Pan-India,8K,T20 Century
+#Covid19,2022,"7,00,000",January,Mixed,Pan-India,6K,Omicron Wave
+#RRR,2022,"4,00,000",March,Positive,South India,8K,Oscar Buzz Start
+#KGF2,2022,"5,50,000",April,Positive,Karnataka,10K,Movie Release
+#Liger,2022,"3,00,000",August,Mixed,Telangana/AP,5K,Movie Flop
+#Agnipath,2022,"3,50,000",June,Negative,North India,4K,Scheme Launch
+#SrinivasaKalyana,2022,"2,00,000",October,Positive,South India,3K,Film Promotion
+#BharatJodoYatra,2022,"4,00,000",October,Mixed,South India,5K,Rahul Gandhi Yatra
+#HarGharTiranga,2022,"3,00,000",August,Positive,Pan-India,4K,Independence Day
+#PonniyinSelvan,2022,"2,50,000",September,Positive,Tamil Nadu,6K,Movie Release
+#Diwali,2022,"3,50,000",October,Positive,Pan-India,5K,Festival
+#T20WorldCup,2022,"4,00,000",November,Positive,Pan-India,7K,Tournament Start
+#FIFAWorldCup,2022,"3,00,000",December,Positive,Urban India,6K,Qatar WC Start
+#RakshaBandhan,2022,"2,00,000",August,Positive,Pan-India,4K,Festival
+#LaalSinghChaddha,2022,"2,50,000",August,Mixed,North India,5K,Movie Release
+#Holi,2022,"1,80,000",March,Positive,Pan-India,3K,Festival
+#EidMubarak,2022,"2,00,000",May,Positive,Pan-India,4K,Eid Celebration
+#PetrolPriceHike,2022,"2,20,000",March,Negative,Urban India,4K,Fuel Price Surge
+#BiggBoss16,2022,"2,50,000",October,Mixed,Urban India,5K,Show Premiere
+#GaneshChaturthi,2022,"1,80,000",September,Positive,Maharashtra,3K,Festival
+#Kantara,2022,"3,00,000",October,Positive,Karnataka,6K,Movie Release
+#Sardar,2022,"1,50,000",October,Positive,Tamil Nadu,4K,Movie Release
+#Modi,2022,"2,00,000",September,Mixed,Pan-India,5K,PM Speech
+#ChennaiSuperKings,2022,"1,80,000",April,Positive,South India,5K,IPL Matches
+#MSDhoni,2022,"2,00,000",April,Positive,Pan-India,6K,IPL Performance
+#Vikram,2022,"2,50,000",June,Positive,Tamil Nadu,5K,Movie Release
+#Pushpa,2022,"3,00,000",January,Positive,South India,7K,Movie Buzz
+#CBSEExams,2022,"1,50,000",May,Mixed,Pan-India,3K,Exam Results
+#NEET,2022,"1,40,000",July,Negative,Pan-India,4K,Exam Controversy
+#Oscars,2022,"2,00,000",March,Positive,Urban India,5K,Will Smith Incident
+#Lockdown,2022,"1,30,000",January,Negative,Urban India,3K,Omicron Restrictions
+#Cryptocurrency,2022,"1,50,000",May,Mixed,Urban India,4K,Crypto Crash
+#IndiaVsPak,2022,"2,00,000",October,Positive,Pan-India,6K,T20 WC Match
+#SidhuMoosewala,2022,"2,50,000",May,Negative,Punjab,5K,Singer’s Death
+#QueenElizabeth,2022,"1,80,000",September,Mixed,Urban India,4K,Queen’s Death
+#BTS,2022,"2,00,000",June,Positive,Urban India,5K,Hiatus Announcement
+#NarendraModi,2022,"1,50,000",August,Mixed,Pan-India,4K,Independence Day Speech
+#Love,2022,"1,40,000",February,Positive,Pan-India,3K,Valentine’s Day
+#Budget2022,2022,"1,30,000",February,Mixed,Urban India,4K,Budget Announcement
+#UPSC,2022,"1,20,000",June,Mixed,Pan-India,3K,Results Announcement
+#Ramadan,2022,"1,10,000",April,Positive,Pan-India,3K,Ramadan Start
+#Covid19,2021,"25,00,000",April,Mixed,Pan-India,10K,Delta Wave Peak
+#FarmersProtest,2021,"18,00,000",January,Negative,Punjab,9K,Tractor Rally
+#TeamIndia,2021,"12,00,000",January,Positive,Pan-India,12K,Gabba Test Win
+#Tokyo2020,2021,"10,00,000",August,Positive,Urban India,11K,Olympics Medal Haul
+#IPL2021,2021,"13,00,000",October,Positive,Pan-India,13K,IPL Final (CSK Win)
+#IndVEng,2021,"9,00,000",February,Positive,Pan-India,10K,Test Series Victory
+#Diwali,2021,"8,00,000",November,Positive,Pan-India,8K,Festival Celebrations
+#Master,2021,"7,00,000",January,Positive,Tamil Nadu,9K,Movie Release
+#Bitcoin,2021,"6,00,000",May,Mixed,Urban India,7K,Crypto Price Surge
+#PermissionToDance,2021,"5,50,000",July,Positive,Urban India,8K,BTS Song Release
+#VaccinationDrive,2021,"5,00,000",June,Positive,Pan-India,6K,Vaccine Rollout
+#OxygenCrisis,2021,"4,50,000",April,Negative,Urban India,5K,Covid Oxygen Shortage
+#T20WorldCup,2021,"4,00,000",October,Mixed,Pan-India,7K,India vs Pakistan Match
+#SidharthShukla,2021,"3,50,000",September,Negative,Urban India,6K,Actor’s Death
+#AryanKhan,2021,"3,00,000",October,Mixed,Mumbai,5K,Drug Case Controversy
+#Pegasus,2021,"2,80,000",July,Negative,Urban India,4K,Spyware Scandal
+#Beast,2021,"2,50,000",April,Positive,Tamil Nadu,6K,First Look Release
+#ViratKohli,2021,"4,00,000",January,Positive,Pan-India,9K,Daughter’s Birth
+#Afghanistan,2021,"3,00,000",August,Mixed,Urban India,5K,Taliban Takeover
+#CGL19Marks,2021,"2,50,000",March,Mixed,Pan-India,4K,Exam Results Delay
+#IndianArmy,2021,"2,00,000",January,Positive,Pan-India,5K,Army Day
+#Uttarakhand,2021,"1,80,000",February,Negative,North India,4K,Glacier Burst
+#RheaChakraborty,2021,"2,20,000",August,Mixed,Mumbai,5K,SSR Case Update
+#SushantSinghRajput,2021,"3,00,000",June,Mixed,Pan-India,6K,Death Anniversary
+#BharatJodoYatra,2021,"2,50,000",October,Mixed,South India,5K,Rahul Gandhi Yatra
+#PetrolPriceHike,2021,"2,00,000",June,Negative,Urban India,4K,Fuel Price Surge
+#RakshaBandhan,2021,"1,80,000",August,Positive,Pan-India,3K,Festival
+#BiggBoss15,2021,"2,20,000",October,Mixed,Urban India,5K,Show Premiere
+#Valimai,2021,"2,00,000",February,Positive,Tamil Nadu,4K,Movie Update
+#Ladakh,2021,"1,50,000",June,Mixed,North India,3K,India-China Standoff
+#EidMubarak,2021,"1,80,000",May,Positive,Pan-India,3K,Eid Celebration
+#Annaatthe,2021,"2,00,000",November,Positive,Tamil Nadu,5K,Movie Release
+#PMModi,2021,"2,50,000",March,Mixed,Pan-India,6K,Vaccine Dose Tweet
+#TokyoParalympics,2021,"1,50,000",September,Positive,Urban India,4K,Paralympics Medals
+#Kabul,2021,"1,40,000",August,Negative,Urban India,3K,Afghanistan Crisis
+#Holi,2021,"1,60,000",March,Positive,Pan-India,3K,Festival
+#ChennaiSuperKings,2021,"2,00,000",October,Positive,South India,5K,IPL Win
+#MSDhoni,2021,"1,80,000",October,Positive,Pan-India,6K,IPL Performance
+#Bangladesh,2021,"1,50,000",March,Positive,East India,4K,Modi’s Visit
+#CBSEExams,2021,"1,40,000",May,Negative,Pan-India,3K,Exam Cancellation Demand
+#Oxygen,2021,"1,30,000",April,Negative,Urban India,4K,Covid Crisis
+#NarendraModi,2021,"2,00,000",April,Mixed,Pan-India,5K,Covid Response Criticism
+#TamilNaduElections,2021,"1,50,000",April,Mixed,Tamil Nadu,4K,State Elections
+#WestBengal,2021,"1,80,000",May,Mixed,West Bengal,5K,Election Results
+#Lockdown,2021,"1,40,000",May,Negative,Pan-India,3K,Second Wave Lockdown
+#IndiaWithArnab,2021,"1,30,000",November,Mixed,Urban India,4K,Arnab Goswami Support
+#GaneshChaturthi,2021,"1,20,000",September,Positive,Maharashtra,3K,Festival
+#StopAsianHate,2021,"1,10,000",March,Positive,Urban India,3K,BTS Campaign Support
+#FarmLaws,2021,"1,00,000",December,Mixed,Punjab,4K,Laws Repealed
